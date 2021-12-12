@@ -1,0 +1,39 @@
+.tableau{
+    top: 30px;
+    right: 10px;
+    bottom: 50px;
+    left: 10px;
+}
+h3{
+    font-size: 14pt;
+    color: dodgerblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navigation{
+    right: 5px;
+    left: 5px;
+    height: 300px;
+    background-image: url(../images/img/contact-bg.jpg);
+    background-size:cover;
+    background-position: center;
+    color: navy;
+    text-align: right;
+}
+h1{
+    text-align: center;
+    color: navy;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer{
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;   
+}
+h5{
+    color: gray;
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+}
